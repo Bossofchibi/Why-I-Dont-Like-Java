@@ -7,3 +7,5 @@ public class HelloWorld {
 }
 
 // It takes 5 lines of code to print something.
+javac HelloWorld.java
+java HelloWorld
